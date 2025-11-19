@@ -29,7 +29,7 @@ Toggles = getgenv().Library.Toggles
 shared.blankhub_InkGame_Library = Library
 
 local Window = Library:CreateWindow({
-	Title = "Solstice Ink Game",
+	Title = "By Not Hub Very Op",
     Footer = "bitch",
 	Center = true,
 	AutoShow = true,
